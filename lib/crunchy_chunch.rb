@@ -3,9 +3,8 @@ require "crunchy_chunch/version"
 module CrunchyChunch
 	class Cruncher
 		def crunch
-			`say oooooooooooooooo`
-			
+			`say you a crunchy tuna roll`		
 		end
 	end
-	
+
 end
