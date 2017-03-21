@@ -1,5 +1,11 @@
 require "crunchy_chunch/version"
 
 module CrunchyChunch
-  # Your code goes here...
+	class Cruncher
+		def crunch
+			'say oooooooooooooooo' 
+			
+		end
+	end
+
 end
